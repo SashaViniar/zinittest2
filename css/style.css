@@ -1,0 +1,43 @@
+.ghost-button {
+    display: inline-block;
+    width: 200px;
+    padding: 8px;
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #fff;
+    text-align: center;
+    outline: none;
+    text-decoration: none;
+    margin-top: 9%;
+}
+
+nav {
+    background-color: rgb(3, 169, 245);
+    height: 50px;
+}
+
+.nav li a {
+    color: white;
+}
+
+.nav li a:hover {
+    background-color: green;
+}
+
+.search {
+    background: url("https://pp.vk.me/c637224/v637224261/208a2/sVCFYZ5YV3k.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 1000px;
+}
+
+
+.textcenter{
+    text-align: center;
+}
+
+.miag{
+    
+}
